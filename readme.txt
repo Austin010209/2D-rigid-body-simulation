@@ -1,1 +1,1 @@
-Thanks.
+This project involves the simulation of contact in a system of 2D rigid bodies, where the scenes are defined by image files. The main skills involved are rotational dynamics, hierarchical collision detection, and a velocity level resolution of contact using a projected Gauss-Seidel complementarity constraint solver, like LCP solver. 
